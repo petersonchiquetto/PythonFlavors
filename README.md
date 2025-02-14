@@ -1,5 +1,3 @@
-Absolutely! Here's the translation of the README content into US English:
-
 ## 👨‍🍳 PythonFlavors: A Dive into OOP with Python 🐍
 
 Welcome to PythonFlavors! 🍽️ This repository is your practical guide to mastering Object-Oriented Programming (OOP) in Python by building a restaurant system. Immerse yourself in the essential concepts of OOP with delicious and practical examples, while exploring the architecture and technical nuances of Python.
@@ -53,7 +51,3 @@ Protect the data of your classes from unwanted external access, ensuring the int
 ## Contribute 🤝
 
 Feel free to submit pull requests with improvements, suggestions, and new examples.
-
-## Savor the knowledge! 😋
-
-Join us on this learning journey and discover how OOP can make your code more organized, reusable, and fun! 🚀
